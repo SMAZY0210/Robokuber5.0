@@ -1,0 +1,103 @@
+{"ts": "2026-05-01 01:13:07", "event": "SERVER_START", "panelist": "—", "detail": "Listening on 0.0.0.0:5000 | LAN: 192.168.0.205", "ip": "—"}
+{"ts": "2026-05-01 01:13:10", "event": "PAGE_VISIT", "panelist": "—", "detail": "ua: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)", "ip": "103.213.239.152", "ip_addr": "103.213.239.152"}
+{"ts": "2026-05-01 01:13:10", "event": "LOGIN_OK", "panelist": "S.M Abrar Zawad Yoboraj", "detail": "UID: Abrar", "ip": "103.213.239.152"}
+{"ts": "2026-05-01 01:13:14", "event": "VIEW_CANDIDATE", "panelist": "S.M Abrar Zawad Yoboraj", "detail": "Abdullah Al Tasin (26524205020)", "ip": "103.213.239.152"}
+{"ts": "2026-05-01 01:13:23", "event": "VIEW_CANDIDATE", "panelist": "S.M Abrar Zawad Yoboraj", "detail": "Abdullah Tanvir (26524205080)", "ip": "103.213.239.152"}
+{"ts": "2026-05-01 01:13:27", "event": "PAGE_VISIT", "panelist": "—", "detail": "ua: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)", "ip": "103.213.239.152", "ip_addr": "103.213.239.152"}
+{"ts": "2026-05-01 01:13:27", "event": "LOGIN_OK", "panelist": "S.M Abrar Zawad Yoboraj", "detail": "UID: Abrar", "ip": "103.213.239.152"}
+{"ts": "2026-05-01 01:16:23", "event": "SERVER_START", "panelist": "—", "detail": "Listening on 0.0.0.0:5000 | LAN: 192.168.0.205", "ip": "—"}
+{"ts": "2026-05-01 01:17:01", "event": "PAGE_VISIT", "panelist": "—", "detail": "ua: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)", "ip": "103.213.239.152", "ip_addr": "103.213.239.152"}
+{"ts": "2026-05-01 01:17:01", "event": "LOGIN_OK", "panelist": "S.M Abrar Zawad Yoboraj", "detail": "UID: Abrar", "ip": "103.213.239.152"}
+{"ts": "2026-05-01 01:17:10", "event": "VIEW_CANDIDATE", "panelist": "S.M Abrar Zawad Yoboraj", "detail": "Ahnaf Tahmid (26524205048)", "ip": "103.213.239.152"}
+{"ts": "2026-05-01 01:17:38", "event": "PAGE_VISIT", "panelist": "—", "detail": "ua: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)", "ip": "103.213.239.152", "ip_addr": "103.213.239.152"}
+{"ts": "2026-05-01 01:17:38", "event": "LOGIN_OK", "panelist": "S.M Abrar Zawad Yoboraj", "detail": "UID: Abrar", "ip": "103.213.239.152"}
+{"ts": "2026-05-01 01:49:17", "event": "PAGE_VISIT", "panelist": "—", "detail": "ua: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)", "ip": "3.94.184.97", "ip_addr": "3.94.184.97"}
+{"ts": "2026-05-01 01:56:56", "event": "PAGE_VISIT", "panelist": "—", "detail": "ua: Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHT", "ip": "220.247.130.36", "ip_addr": "220.247.130.36"}
+{"ts": "2026-05-01 01:57:03", "event": "PAGE_VISIT", "panelist": "—", "detail": "ua: Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHT", "ip": "220.247.130.36", "ip_addr": "220.247.130.36"}
+{"ts": "2026-05-01 01:57:20", "event": "LOGIN_FAIL", "panelist": "—", "detail": "UID attempted: Forman12345", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 01:57:35", "event": "LOGIN_OK", "panelist": "Forman Morshed Khan Pathan", "detail": "UID: Forman", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 01:58:49", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "Aeysha Tabassum Mithe (25549011065)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 01:59:57", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "Saad Bin Sultan (25524204077)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:00:36", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "Abdullah Al Tasin (26524205020)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:01:11", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "Abdullah Tanvir (26524205080)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:01:28", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "Arina Ahsan (25549011070)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:03:08", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "Aina Tabassum Rodela (26524205015)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:04:25", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "Sreshtha Chaki (25549011026)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:05:37", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "Aman Hasan Ariyan (26549012048)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:06:03", "event": "PAGE_VISIT", "panelist": "—", "detail": "ua: Mozilla/5.0", "ip": "160.119.76.54", "ip_addr": "160.119.76.54"}
+{"ts": "2026-05-01 02:06:57", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "Kazi Raisa Mostafa Borshona (25241610110)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:07:03", "event": "LOGIN_OK", "panelist": "Forman Morshed Khan Pathan", "detail": "UID: Forman", "ip": "59.153.100.207"}
+{"ts": "2026-05-01 02:07:15", "event": "VIEW_CANDIDATE", "panelist": "—", "detail": "Kazi Raisa Mostafa Borshona (25241610110)", "ip": "59.153.100.207"}
+{"ts": "2026-05-01 02:08:38", "event": "VIEW_CANDIDATE", "panelist": "—", "detail": "Kazi Raisa Mostafa Borshona (25241610110)", "ip": "59.153.100.207"}
+{"ts": "2026-05-01 02:09:13", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "Sanjida Aktar Nupur (25159310061)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:09:22", "event": "VIEW_CANDIDATE", "panelist": "—", "detail": "Sanjida Aktar Nupur (25159310061)", "ip": "59.153.100.207"}
+{"ts": "2026-05-01 02:10:23", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "Sejuti Mahjabin Tisma (25444104012)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:11:12", "event": "VIEW_CANDIDATE", "panelist": "—", "detail": "Aeysha Tabassum Mithe (25549011065)", "ip": "59.153.100.207"}
+{"ts": "2026-05-01 02:11:13", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "Nubaita Akter Sajia (Sajia Ahmed)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:11:43", "event": "VIEW_CANDIDATE", "panelist": "—", "detail": "Sejuti Mahjabin Tisma (25444104012)", "ip": "59.153.100.207"}
+{"ts": "2026-05-01 02:11:43", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "Rukaiya Hossain Sam (26431910028)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:12:09", "event": "VIEW_CANDIDATE", "panelist": "—", "detail": "Sejuti Mahjabin Tisma (25444104012)", "ip": "59.153.100.207"}
+{"ts": "2026-05-01 02:12:20", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "Sejuti Mahjabin Tisma (25444104012)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:12:37", "event": "VIEW_CANDIDATE", "panelist": "—", "detail": "Nubaita Akter Sajia (Sajia Ahmed)", "ip": "59.153.100.207"}
+{"ts": "2026-05-01 02:12:40", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "Afia Ahmed Biva (26524205060)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:13:17", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "Jannatul Ferdous (26524205062)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:13:47", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "Noor-E-Zannat Tasfia (26524205046)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:14:13", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "Lamisa Karim (26524205042)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:14:47", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "Lubaina Saadia (26524205044)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:15:17", "event": "VIEW_CANDIDATE", "panelist": "—", "detail": "Md. Tahmedur Rahman Biswas (26549012075)", "ip": "59.153.100.207"}
+{"ts": "2026-05-01 02:15:30", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "Nuha Raidah (26524205035)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:15:48", "event": "PAGE_VISIT", "panelist": "—", "detail": "ua: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.", "ip": "115.231.78.3", "ip_addr": "115.231.78.3"}
+{"ts": "2026-05-01 02:15:49", "event": "VIEW_CANDIDATE", "panelist": "—", "detail": "Kazi Abrar Awsaf (26549012032)", "ip": "59.153.100.207"}
+{"ts": "2026-05-01 02:16:28", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "Kazi Abrar Awsaf (26549012032)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:17:01", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "Aeysha Tabassum Mithe (25549011065)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:17:22", "event": "VIEW_CANDIDATE", "panelist": "—", "detail": "Tamim Iqbal (26549012020)", "ip": "59.153.100.207"}
+{"ts": "2026-05-01 02:17:39", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "Fouzia Ahmad Risa (26549012099)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:18:08", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "Arina Ahsan (25549011070)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:18:37", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "Amir Hamza (26549012043)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:18:39", "event": "VIEW_CANDIDATE", "panelist": "—", "detail": "Nusrat Jahan Nuraia (26549012081)", "ip": "59.153.100.207"}
+{"ts": "2026-05-01 02:19:06", "event": "VIEW_CANDIDATE", "panelist": "—", "detail": "Amir Hamza (26549012043)", "ip": "59.153.100.207"}
+{"ts": "2026-05-01 02:19:15", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "Fahmida Faiza Aurin (26549012046)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:19:46", "event": "VIEW_CANDIDATE", "panelist": "—", "detail": "Anwesha Saha (26549012007)", "ip": "59.153.100.207"}
+{"ts": "2026-05-01 02:19:48", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "Farzana Akter Riya (26549012083)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:20:27", "event": "VIEW_CANDIDATE", "panelist": "—", "detail": "B.M. Meheraj Hasan (26549012058)", "ip": "59.153.100.207"}
+{"ts": "2026-05-01 02:20:29", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "MD. SHAHARIAR HASSAN JOY (26549012071)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:21:02", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "B.M. Meheraj Hasan (26549012058)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:21:39", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "Mashurul Alam Mehedi (25524204051)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:22:34", "event": "VIEW_CANDIDATE", "panelist": "—", "detail": "Maung Kyaw Sen Kabbo (26549012044)", "ip": "59.153.100.207"}
+{"ts": "2026-05-01 02:22:37", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "Sayma Meherin (26549012021)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:23:09", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "Maung Kyaw Sen Kabbo (26549012044)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:24:05", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "Abdur rahman (26524205043)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:24:22", "event": "VIEW_CANDIDATE", "panelist": "—", "detail": "Abdur rahman (26524205043)", "ip": "59.153.100.207"}
+{"ts": "2026-05-01 02:24:52", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "M M Toasin Uddin Sami (26524205061)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:25:30", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "Badhon Halder (26524205025)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:25:37", "event": "VIEW_CANDIDATE", "panelist": "—", "detail": "Afia Ahmed Biva (26524205060)", "ip": "59.153.100.207"}
+{"ts": "2026-05-01 02:25:59", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "sourav ahmed (25524204108)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:27:12", "event": "VIEW_CANDIDATE", "panelist": "—", "detail": "Aina Tabassum Rodela (26524205015)", "ip": "59.153.100.207"}
+{"ts": "2026-05-01 02:27:16", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "Zeeshan Azrof (26549012114)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:28:33", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "Mahima Kamal (25549011010)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:28:59", "event": "VIEW_CANDIDATE", "panelist": "—", "detail": "Mahima Kamal (25549011010)", "ip": "59.153.100.207"}
+{"ts": "2026-05-01 02:29:43", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "Mohammad Ali (25549011035)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:30:04", "event": "VIEW_CANDIDATE", "panelist": "—", "detail": "Mahima Kamal (25549011010)", "ip": "59.153.100.207"}
+{"ts": "2026-05-01 02:30:21", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "Md. Hasan Al Banna (26549012017)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:31:43", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "Mahima Kamal (25549011010)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:32:04", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "Md.Sazedur Rahman (26524205040)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:32:27", "event": "VIEW_CANDIDATE", "panelist": "—", "detail": "Md.Sazedur Rahman (26524205040)", "ip": "59.153.100.207"}
+{"ts": "2026-05-01 02:32:42", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "Maisha Rahman (26549012110)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:33:02", "event": "VIEW_CANDIDATE", "panelist": "—", "detail": "Maisha Rahman (26549012110)", "ip": "59.153.100.207"}
+{"ts": "2026-05-01 02:33:09", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "Maisha sanzida (25549011043)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:33:33", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "Mushfika Islam Mushga (26549012009)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:33:42", "event": "VIEW_CANDIDATE", "panelist": "—", "detail": "Mushfika Islam Mushga (26549012009)", "ip": "59.153.100.207"}
+{"ts": "2026-05-01 02:34:42", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "Nubaita Akter Sajia (Sajia Ahmed)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:35:10", "event": "VIEW_CANDIDATE", "panelist": "Forman Morshed Khan Pathan", "detail": "Umaiza Zafirah (26524205067)", "ip": "220.247.130.36"}
+{"ts": "2026-05-01 02:35:16", "event": "VIEW_CANDIDATE", "panelist": "—", "detail": "Nubaita Akter Sajia (Sajia Ahmed)", "ip": "59.153.100.207"}
+{"ts": "2026-05-01 02:35:39", "event": "VIEW_CANDIDATE", "panelist": "—", "detail": "Nubaita Akter Sajia (Sajia Ahmed)", "ip": "59.153.100.207"}
+{"ts": "2026-05-01 03:46:18", "event": "PAGE_VISIT", "panelist": "—", "detail": "ua: Hello from Palo Alto Networks, find out more about our scans in https://docs-cor", "ip": "198.235.24.90", "ip_addr": "198.235.24.90"}
+{"ts": "2026-05-01 04:25:36", "event": "PAGE_VISIT", "panelist": "—", "detail": "ua: Go-http-client/1.1", "ip": "143.198.235.238", "ip_addr": "143.198.235.238"}
+{"ts": "2026-05-01 04:30:13", "event": "PAGE_VISIT", "panelist": "—", "detail": "ua: Hello from Palo Alto Networks, find out more about our scans in https://docs-cor", "ip": "162.216.150.246", "ip_addr": "162.216.150.246"}
+{"ts": "2026-05-01 16:19:42", "event": "SERVER_START", "panelist": "—", "detail": "Listening on 0.0.0.0:5000 | LAN: 192.168.0.205", "ip": "—"}
+{"ts": "2026-05-01 16:20:05", "event": "PAGE_VISIT", "panelist": "—", "detail": "ua: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)", "ip": "127.0.0.1", "ip_addr": "127.0.0.1"}
+{"ts": "2026-05-01 16:20:16", "event": "LOGIN_OK", "panelist": "S.M Abrar Zawad Yoboraj", "detail": "UID: Abrar", "ip": "127.0.0.1"}
+{"ts": "2026-05-01 16:20:25", "event": "VIEW_CANDIDATE", "panelist": "S.M Abrar Zawad Yoboraj", "detail": "Abdullah Al Tasin (26524205020)", "ip": "127.0.0.1"}
+{"ts": "2026-05-01 16:22:06", "event": "VIEW_CANDIDATE", "panelist": "S.M Abrar Zawad Yoboraj", "detail": "Abdullah Al Tasin (26524205020)", "ip": "127.0.0.1"}
+{"ts": "2026-05-01 16:24:11", "event": "PAGE_VISIT", "panelist": "—", "detail": "ua: Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHT", "ip": "220.247.130.36", "ip_addr": "220.247.130.36"}
+{"ts": "2026-05-01 16:24:13", "event": "LOGIN_OK", "panelist": "Forman Morshed Khan Pathan", "detail": "UID: Forman", "ip": "220.247.130.36"}
